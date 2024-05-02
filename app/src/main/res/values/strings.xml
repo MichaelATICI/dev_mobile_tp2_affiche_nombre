@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Display number</string>
+    <string name="invalid_number">Invalid number !</string>
+    <string name="et_enter_number">Enter an integer number</string>
+    <string name="bt_display_number">Display</string>
+</resources>
